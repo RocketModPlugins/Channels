@@ -1,0 +1,6 @@
+C:\Users\irfan\Documents\GitHub\Channels\bin\Release\Channels.dll
+C:\Users\irfan\Documents\GitHub\Channels\bin\Release\Channels.pdb
+C:\Users\irfan\Documents\GitHub\Channels\obj\Release\Channels.csprojAssemblyReference.cache
+C:\Users\irfan\Documents\GitHub\Channels\obj\Release\Channels.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Documents\GitHub\Channels\obj\Release\Channels.dll
+C:\Users\irfan\Documents\GitHub\Channels\obj\Release\Channels.pdb
